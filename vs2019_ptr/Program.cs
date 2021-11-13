@@ -8,6 +8,7 @@ namespace vs2019_ptr
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dragonfruit");
+            Console.WriteLine("Kiwi");
         }
     }
 }
